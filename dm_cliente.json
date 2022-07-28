@@ -1,0 +1,8 @@
+{
+    "DM_CLIENTE": "Informações sobre os clientes da companhia.",
+    "Schema":
+    {
+        "CD_CLIENTE": "Identificador único do cliente",
+        "DS_NOME_CLIENTE": "Representa a informação do nome dos clientes da companhia."
+    }
+}
